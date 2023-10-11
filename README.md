@@ -47,6 +47,10 @@ Here's some examples.
 
 
 
+# Test by Myself
+
+### text with lora loaders
+
 
 # Gallery
 
