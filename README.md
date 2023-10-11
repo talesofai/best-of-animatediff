@@ -57,6 +57,8 @@ Here's some examples.
 ![nahida-img](https://github.com/huxiuhan/best-of-animatediff/blob/e981e8217f099f52e4a943093d97d8986f9cf02e/assets/nahida-img.png)
 
 
+[nahida-vid-small.mov](https://github.com/huxiuhan/best-of-animatediff/blob/b591bf6a891b35f4dd228d66670eca009bc567cf/assets/nahida-vid-small.mov)
+
 # Gallery
 
 ## From Banodoco
