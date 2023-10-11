@@ -51,6 +51,9 @@ Here's some examples.
 
 ### text with lora loaders
 
+![nahida-img](https://github.com/huxiuhan/best-of-animatediff/blob/e981e8217f099f52e4a943093d97d8986f9cf02e/assets/nahida-img.png)
+
+![nahida-vid](https://github.com/huxiuhan/best-of-animatediff/blob/e981e8217f099f52e4a943093d97d8986f9cf02e/assets/nahida-vid.mp4)
 
 # Gallery
 
